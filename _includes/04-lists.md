@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Octopus
+* Synthwave
+  * Midnight
+  * Dance of the Dead
+* Video Games
+  * DOTA 2
+  * Retro Games
